@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html><header><h1>Aurore Berger Bjursell, développeuse</h1></header>
 <main><p>J'ai créé mon premier site en HTML en 2004, travaillé pour deux sociétés de streaming légal entre 2006 et 2008 et gère deux e-boutiques depuis 2013. Polymathe et polyvalente, j'aide les entreprises à diffuser leurs culture(s) sur le web.</p>
 
